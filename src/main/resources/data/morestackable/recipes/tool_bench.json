@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morestackable:diamond_gears"
+    },
+    "I": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "III",
+    "I#I",
+    "I I"
+  ],
+  "result": {
+    "item": "morestackable:tool_bench"
+  }
+}

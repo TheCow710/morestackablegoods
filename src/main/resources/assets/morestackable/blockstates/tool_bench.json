@@ -1,0 +1,5 @@
+{
+	"variants": {
+	  "": { "model": "morestackable:block/tool_bench" }
+	  }
+}
